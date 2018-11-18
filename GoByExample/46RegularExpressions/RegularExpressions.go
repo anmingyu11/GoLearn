@@ -1,5 +1,5 @@
 //Go内置了对正则表达式的支持，这里是一般的正则表达式常规用法的例子。
-package main
+package _6RegularExpressions
 
 import (
 	"bytes"
